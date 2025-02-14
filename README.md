@@ -44,7 +44,7 @@ pip install pyfiglet
 
 Start the framework by running:
 ```bash
-python3 aref.py
+python3 main.py
 ```
 
 ### Available Commands
