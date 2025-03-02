@@ -20,7 +20,7 @@ A powerful command-line interface (CLI) tool for Android APK reverse engineering
 - APKTool (by Connor Tumbleson - iBotPeaches)
 - AAPT2 (Android Asset Packaging Tool 2)
 - Uber APK Signer (by patrickfav)
--Linux enviroment (termux may not work)
+- Linux enviroment (termux may not work)
 ## Installation
 
 1. Clone the repository:
