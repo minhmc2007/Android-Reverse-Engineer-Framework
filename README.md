@@ -23,11 +23,7 @@ A powerful command-line interface (CLI) tool for Android APK reverse engineering
 - Linux enviroment (termux may not work)
 ## Installation
 
-1. Clone the repository:
-```bash
-git clone https://github.com/minhmc2007/Android-Reverse-Engineer-Framework
-cd Android Reverse Engineer Framework
-```
+1. Clone the repository
 
 2. Install Python dependencies:
 ```bash
